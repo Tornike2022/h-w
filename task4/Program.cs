@@ -4,6 +4,6 @@ int i = 2;
 
 while(N>=i)
 {
-    Console.WriteLine(i);
+    Console.Write(i);
     i = i + 2;
 }
